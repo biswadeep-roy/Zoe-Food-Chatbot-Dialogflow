@@ -2,7 +2,7 @@
 
 Zoe Food Chatbot is a versatile chatbot designed for food delivery services. It is built using Dialogflow and can be easily integrated into websites. This chatbot allows users to browse menus, customize orders, and place food orders seamlessly through a conversational interface.
 
-![Zoe Food Chatbot](https://github.com/biswadeep-roy/Zoe-Food-Chatbot-Dialogflow/raw/main/demo_image.jpg)
+![Zoe Food Chatbot]
 
 
 ## Features
