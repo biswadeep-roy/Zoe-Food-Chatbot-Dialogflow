@@ -1,0 +1,43 @@
+{
+  "id": "fdc046a3-2539-444f-81e9-3b928cd6c847",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Welcome to our restaurant! How can I assist you today? Feel free to say 'new order' or 'track order.'",
+            "Greetings! We're here to serve you. Let us know if you'd like to place a 'new order' or check on an existing 'track order.'",
+            "Hello! We're delighted to have you here. Do you wish to make a 'new order' or inquire about an existing 'track order.'",
+            "Hey there! We're at your service. Just tell us if you'd like to start a 'new order' or inquire about an 'existing order.'",
+            "Hi! It's great to see you. How may we assist you today? Simply say 'new order' or 'track order' to get started."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

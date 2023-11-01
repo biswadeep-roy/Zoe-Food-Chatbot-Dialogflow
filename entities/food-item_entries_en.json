@@ -1,0 +1,440 @@
+[
+  {
+    "value": "Chole Bhature",
+    "synonyms": [
+      "Chole Bhature",
+      "Choley Bhature",
+      "Chola Bhatura"
+    ]
+  },
+  {
+    "value": "Cheese Pizza",
+    "synonyms": [
+      "Cheese Pizza",
+      "Pizza with Cheese",
+      "Pizza"
+    ]
+  },
+  {
+    "value": "Mango Lassi",
+    "synonyms": [
+      "Mango Lassi",
+      "Mango Yogurt Drink"
+    ]
+  },
+  {
+    "value": "Biryani",
+    "synonyms": [
+      "Biryani",
+      "Chicken Biryani",
+      "Vegetable Biryani"
+    ]
+  },
+  {
+    "value": "Pav Bhaji",
+    "synonyms": [
+      "Pav Bhaji",
+      "Spicy Vegetarian Curry"
+    ]
+  },
+  {
+    "value": "Vada Pav",
+    "synonyms": [
+      "Vada Pav",
+      "Indian Burger"
+    ]
+  },
+  {
+    "value": "Lassi",
+    "synonyms": [
+      "Lassi",
+      "Yogurt Smoothie",
+      "Sweet Lassi"
+    ]
+  },
+  {
+    "value": "Hamburger",
+    "synonyms": [
+      "Hamburger",
+      "Burger"
+    ]
+  },
+  {
+    "value": "French Fries",
+    "synonyms": [
+      "French Fries",
+      "Fries"
+    ]
+  },
+  {
+    "value": "Chicken Wings",
+    "synonyms": [
+      "Chicken Wings",
+      "Wings"
+    ]
+  },
+  {
+    "value": "Sushi",
+    "synonyms": [
+      "Sushi",
+      "Sashimi"
+    ]
+  },
+  {
+    "value": "Tacos",
+    "synonyms": [
+      "Tacos",
+      "Taco"
+    ]
+  },
+  {
+    "value": "Pancakes",
+    "synonyms": [
+      "Pancakes",
+      "Flapjacks"
+    ]
+  },
+  {
+    "value": "Waffles",
+    "synonyms": [
+      "Waffles",
+      "Belgian Waffles"
+    ]
+  },
+  {
+    "value": "Salad",
+    "synonyms": [
+      "Salad",
+      "Garden Salad"
+    ]
+  },
+  {
+    "value": "Sushi Rolls",
+    "synonyms": [
+      "Sushi Rolls",
+      "Maki Rolls"
+    ]
+  },
+  {
+    "value": "Sashimi",
+    "synonyms": [
+      "Sashimi",
+      "Sliced Raw Fish"
+    ]
+  },
+  {
+    "value": "Lasagna",
+    "synonyms": [
+      "Lasagna",
+      "Lasagne"
+    ]
+  },
+  {
+    "value": "Donuts",
+    "synonyms": [
+      "Donuts",
+      "Doughnuts"
+    ]
+  },
+  {
+    "value": "Burrito",
+    "synonyms": [
+      "Burrito",
+      "Wrap"
+    ]
+  },
+  {
+    "value": "Tofu Stir Fry",
+    "synonyms": [
+      "Tofu Stir Fry",
+      "Vegetable Stir Fry"
+    ]
+  },
+  {
+    "value": "Shrimp Scampi",
+    "synonyms": [
+      "Shrimp Scampi",
+      "Garlic Shrimp"
+    ]
+  },
+  {
+    "value": "Chicken Alfredo",
+    "synonyms": [
+      "Chicken Alfredo",
+      "Alfredo Pasta"
+    ]
+  },
+  {
+    "value": "Tuna Salad",
+    "synonyms": [
+      "Tuna Salad",
+      "Tuna Sandwich"
+    ]
+  },
+  {
+    "value": "Beef Tacos",
+    "synonyms": [
+      "Beef Tacos",
+      "Ground Beef Tacos"
+    ]
+  },
+  {
+    "value": "Chocolate Cake",
+    "synonyms": [
+      "Chocolate Cake",
+      "Cake"
+    ]
+  },
+  {
+    "value": "Cobb Salad",
+    "synonyms": [
+      "Cobb Salad",
+      "Chicken Salad"
+    ]
+  },
+  {
+    "value": "Baked Ziti",
+    "synonyms": [
+      "Baked Ziti",
+      "Ziti Pasta"
+    ]
+  },
+  {
+    "value": "Tomato Soup",
+    "synonyms": [
+      "Tomato Soup",
+      "Tomato Bisque"
+    ]
+  },
+  {
+    "value": "Caesar Salad",
+    "synonyms": [
+      "Caesar Salad",
+      "Caesar"
+    ]
+  },
+  {
+    "value": "Chicken Fried Rice",
+    "synonyms": [
+      "Chicken Fried Rice",
+      "Fried Rice"
+    ]
+  },
+  {
+    "value": "Lobster Bisque",
+    "synonyms": [
+      "Lobster Bisque",
+      "Lobster Soup"
+    ]
+  },
+  {
+    "value": "Chicken Noodle Soup",
+    "synonyms": [
+      "Chicken Noodle Soup",
+      "Noodle Soup"
+    ]
+  },
+  {
+    "value": "Clam Chowder",
+    "synonyms": [
+      "Clam Chowder",
+      "Chowder"
+    ]
+  },
+  {
+    "value": "Tuna Tartare",
+    "synonyms": [
+      "Tuna Tartare",
+      "Tartare"
+    ]
+  },
+  {
+    "value": "Greek Salad",
+    "synonyms": [
+      "Greek Salad",
+      "Greek"
+    ]
+  },
+  {
+    "value": "Chow Mein",
+    "synonyms": [
+      "Chow Mein",
+      "Stir-Fried Noodles"
+    ]
+  },
+  {
+    "value": "Ramen",
+    "synonyms": [
+      "Ramen",
+      "Ramen Noodles"
+    ]
+  },
+  {
+    "value": "Pho",
+    "synonyms": [
+      "Pho",
+      "Vietnamese Noodle Soup"
+    ]
+  },
+  {
+    "value": "Eggplant Parmesan",
+    "synonyms": [
+      "Eggplant Parmesan",
+      "Eggplant Parm"
+    ]
+  },
+  {
+    "value": "Hot Dog",
+    "synonyms": [
+      "Hot Dog",
+      "Frankfurter"
+    ]
+  },
+  {
+    "value": "Onion Rings",
+    "synonyms": [
+      "Onion Rings",
+      "Fried Onions"
+    ]
+  },
+  {
+    "value": "Fish and Chips",
+    "synonyms": [
+      "Fish and Chips",
+      "Fish 'n' Chips"
+    ]
+  },
+  {
+    "value": "Peking Duck",
+    "synonyms": [
+      "Peking Duck",
+      "Crispy Duck"
+    ]
+  },
+  {
+    "value": "Butter Chicken",
+    "synonyms": [
+      "Butter Chicken",
+      "Murgh Makhani"
+    ]
+  },
+  {
+    "value": "Pad Thai",
+    "synonyms": [
+      "Pad Thai",
+      "Thai Stir-Fried Noodles"
+    ]
+  },
+  {
+    "value": "Shrimp Fried Rice",
+    "synonyms": [
+      "Shrimp Fried Rice",
+      "Fried Rice with Shrimp"
+    ]
+  },
+  {
+    "value": "Garlic Bread",
+    "synonyms": [
+      "Garlic Bread",
+      "Garlic Toast"
+    ]
+  },
+  {
+    "value": "Falafel",
+    "synonyms": [
+      "Falafel",
+      "Chickpea Fritters"
+    ]
+  },
+  {
+    "value": "Beef Stroganoff",
+    "synonyms": [
+      "Beef Stroganoff",
+      "Stroganoff"
+    ]
+  },
+  {
+    "value": "Chicken Tenders",
+    "synonyms": [
+      "Chicken Tenders",
+      "Chicken Strips"
+    ]
+  },
+  {
+    "value": "Chimichanga",
+    "synonyms": [
+      "Chimichanga",
+      "Deep-Fried Burrito"
+    ]
+  },
+  {
+    "value": "Caprese Salad",
+    "synonyms": [
+      "Caprese Salad",
+      "Tomato and Mozzarella Salad"
+    ]
+  },
+  {
+    "value": "Clam Bake",
+    "synonyms": [
+      "Clam Bake",
+      "Seafood Boil"
+    ]
+  },
+  {
+    "value": "Crab Cakes",
+    "synonyms": [
+      "Crab Cakes",
+      "Crab Patties"
+    ]
+  },
+  {
+    "value": "Eggs Benedict",
+    "synonyms": [
+      "Eggs Benedict",
+      "Eggs Benny"
+    ]
+  },
+  {
+    "value": "Goulash",
+    "synonyms": [
+      "Goulash",
+      "Hungarian Stew"
+    ]
+  },
+  {
+    "value": "Gyros",
+    "synonyms": [
+      "Gyros",
+      "Greek Wrap"
+    ]
+  },
+  {
+    "value": "Jambalaya",
+    "synonyms": [
+      "Jambalaya",
+      "Creole Rice Dish"
+    ]
+  },
+  {
+    "value": "Lemon Meringue Pie",
+    "synonyms": [
+      "Lemon Meringue Pie",
+      "Lemon Pie"
+    ]
+  },
+  {
+    "value": "Lobster Roll",
+    "synonyms": [
+      "Lobster Roll",
+      "Lobster Sandwich"
+    ]
+  },
+  {
+    "value": "Mongolian Beef",
+    "synonyms": [
+      "Mongolian Beef",
+      "Stir-Fried Beef"
+    ]
+  }
+]

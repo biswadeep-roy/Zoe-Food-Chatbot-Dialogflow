@@ -1,0 +1,13 @@
+{
+  "id": "00728326-73d3-4b39-bf40-1da165fc7e93",
+  "name": "topping",
+  "contexts": [],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "2aebe3c8-34e7-4c97-8161-6cb5dc4bc498",
+    "data": [
+      {
+        "text": "place new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d451a807-7d2d-4e3c-af55-19bd618cafa1",
+    "data": [
+      {
+        "text": "new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "967486e1-00bc-4804-85dd-1012abb48b29",
+    "data": [
+      {
+        "text": "initiate a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "393055c4-f9d0-4d14-86f3-a9fbc32f4f78",
+    "data": [
+      {
+        "text": "start a new purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "068fd123-7361-4c79-a39c-c3fa45ff22d0",
+    "data": [
+      {
+        "text": "generate a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b91a420d-4468-4342-8d7b-a9a7bc03ac42",
+    "data": [
+      {
+        "text": "I\u0027d like to place an order for a recent addition to the menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6c67841-d5af-4706-a92b-0ed7faa2db9d",
+    "data": [
+      {
+        "text": "I\u0027m ready to try something new, please order it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c4f963d-ecf5-4970-88a6-2c97639bf1c1",
+    "data": [
+      {
+        "text": "How about ordering something completely new",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ece79e47-613d-4ef6-bd44-7800f41a0e46",
+    "data": [
+      {
+        "text": "Give me something from the new menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d350fb84-eec6-4b61-b22e-6911c6da49ae",
+    "data": [
+      {
+        "text": "I want to place an order for something different",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d359577-6783-4b21-be64-0d67a5cd5db0",
+    "data": [
+      {
+        "text": "Put in a brand-new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6406e566-4b52-4848-97f1-5bda6d94fa84",
+    "data": [
+      {
+        "text": "I\u0027m interested in ordering a new item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f82ed81a-e6c2-4f59-88a6-380fb407bb20",
+    "data": [
+      {
+        "text": "Let\u0027s go for a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24cee9b4-f33e-41c8-9d40-7da43621de2c",
+    "data": [
+      {
+        "text": "I\u0027d like to make a fresh order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90359ece-31fc-42c0-a4c5-c95f96859f8d",
+    "data": [
+      {
+        "text": "Order something new",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7db76ce-3ea8-45ef-807b-24d921a87250",
+    "data": [
+      {
+        "text": "place a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

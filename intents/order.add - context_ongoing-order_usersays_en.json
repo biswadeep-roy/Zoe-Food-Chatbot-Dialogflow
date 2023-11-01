@@ -1,0 +1,446 @@
+[
+  {
+    "id": "e4d76485-7006-46dd-9847-19f16d313728",
+    "data": [
+      {
+        "text": "Oh yes, add ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pav bhaji",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " as well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3cf14f1-1b9c-41a3-838c-1f85fc992e23",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "biryani",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e33417a7-bfcc-404d-b465-26245575ce19",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " and ok, let's add ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "biryani",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed9b8423-c1d4-4077-a5aa-f6bbddcfc3c7",
+    "data": [
+      {
+        "text": "Additionally, I'd like ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mango lassi",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1acfcdb0-7535-4da7-b4da-36f99a4502cd",
+    "data": [
+      {
+        "text": "Also, please give me ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mango lassi",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec8ab4f2-ccd9-460d-acfe-1a94414b4344",
+    "data": [
+      {
+        "text": "Moreover, include ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mango lassi",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bfec1ef-e419-4028-9da5-aa2855919a10",
+    "data": [
+      {
+        "text": "In addition, add ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bhaji pav",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzas",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d7b2d14-05e8-42d3-9d65-ff9fa2d1f31e",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lassi",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": ", 2 ",
+        "userDefined": false
+      },
+      {
+        "text": "chhole bhature",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " and one ",
+        "userDefined": false
+      },
+      {
+        "text": "vada paav",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": ", do it fast please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba0e2453-13bc-41c3-b643-5939cf11643f",
+    "data": [
+      {
+        "text": "I'll take ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " orders of ",
+        "userDefined": false
+      },
+      {
+        "text": "chole bhature",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": ", one ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese pizza",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": ", and ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mango lassi",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": ", if you don't mind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49c48480-1758-4a20-bd33-866035300d2d",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " plates of ",
+        "userDefined": false
+      },
+      {
+        "text": "chole bhature",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": ", along with ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese pizza",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mango lassi",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
