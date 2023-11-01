@@ -33,7 +33,7 @@ Zoe Food Chatbot can be easily integrated into websites. Here's how:
 
 1. **Web Widget**: Implement the chatbot as a widget on your website. You can customize the widget's appearance and behavior to match your site's design.
 
-2. **API Integration**: Use the provided API endpoints to enable actions like order placement and menu display on your website. Detailed API documentation can be found in the [Documentation](docs/API.md).
+2. **API Integration**: Use the provided API endpoints to enable actions like order placement and menu display on your website. Detailed API documentation can be found in the [Documentation](https://cloud.google.com/dialogflow/docs).
 
 3. **Customization**: Tailor the chatbot's conversation flow to match your website's user experience. You can modify the chatbot's responses and logic to suit your specific needs.
 
