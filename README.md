@@ -41,7 +41,7 @@ Zoe Food Chatbot can be easily integrated into websites. Here's how:
 
 ## Documentation
 
-Comprehensive documentation on using, configuring, and integrating the chatbot can be found in the [Documentation](docs/).
+Comprehensive documentation on using, configuring, and integrating the chatbot can be found in the [Documentation](https://cloud.google.com/dialogflow/docs).
 
 
 ## License
@@ -50,7 +50,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have questions or need assistance, please contact [Your Name](mailto:biswadeeproy1230@gmail.com).
+If you have questions or need assistance, please contact [Biswadeep Roy](mailto:biswadeeproy1230@gmail.com).
 
 
 [License](LICENSE)
